@@ -72,26 +72,6 @@
       "github_sync": "✅",
       "note": "M76花名册引擎化里程碑 · 18字段+56成员+ASI-001新建 · 0失败",
       "uid": "UID9622"
-    },
-    {
-      "tx_id": "TX-2026-08-31-004",
-      "dna": "#龍帳⚡️2026-08-31-2001-3201-1次-004-UID9622",
-      "hash": "",
-      "date": "2026-08-31",
-      "timestamp": "2026-08-31T22:30:00+08:00",
-      "tx_type": "T4",
-      "tx_type_name": "依赖",
-      "balanced": true,
-      "dr_account": "2001",
-      "dr_name": "外部依赖",
-      "cr_account": "3201",
-      "cr_name": "协议资产净值",
-      "amount": "1次",
-      "description": "接入桥测试交易",
-      "witness": "🐱 龍芯·宝宝",
-      "uid": "UID9622",
-      "health": "🟢 健康",
-      "github_sync": "✅"
     }
   ],
   "balance_check": {
