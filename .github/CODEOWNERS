@@ -1,0 +1,15 @@
+# 🐉 龍魂流水账 · Code Owners
+# 每一笔账，都有主权归属。
+
+# Global owner: UID9622 (主权人)
+* @UID9622
+
+# Data directory: requires UID9622 review
+data/ @UID9622
+
+# Scripts: codebuddy can manage
+scripts/ @UID9622
+
+# Format specs: UID9622 only
+LEDGER_FORMAT.md @UID9622
+CHART_OF_ACCOUNTS.md @UID9622
