@@ -1,0 +1,71 @@
+[
+  {
+    "tx_id": "TX-2026-08-31-001",
+    "dna": "#龍帳⚡️2026-08-31-1001-3201-1条-001-UID9622",
+    "hash": "5F9C5755",
+    "audit_time": "2026-08-31T22:19:32.980010+08:00",
+    "color": "RED",
+    "score": 55.9,
+    "scores_detail": {
+      "D1": 50,
+      "D2": 40,
+      "D3": 80,
+      "D4": 70,
+      "D5": 50,
+      "weighted": 55.9
+    },
+    "red_rules_triggered": [
+      "R05"
+    ],
+    "router": "SOVEREIGN_BLOCK_HANDLER",
+    "witness": "🐱宝宝（兜底）",
+    "auto_approved": false,
+    "uid": "UID9622"
+  },
+  {
+    "tx_id": "TX-2026-08-31-002",
+    "dna": "#龍帳⚡️2026-08-31-1105-2001-1仓库-002-UID9622",
+    "hash": "F10786C3",
+    "audit_time": "2026-08-31T22:19:32.980054+08:00",
+    "color": "RED",
+    "score": 55.9,
+    "scores_detail": {
+      "D1": 50,
+      "D2": 40,
+      "D3": 80,
+      "D4": 70,
+      "D5": 50,
+      "weighted": 55.9
+    },
+    "red_rules_triggered": [
+      "R05"
+    ],
+    "router": "SOVEREIGN_BLOCK_HANDLER",
+    "witness": "🐱宝宝（兜底）",
+    "auto_approved": false,
+    "uid": "UID9622"
+  },
+  {
+    "tx_id": "TX-2026-08-31-003",
+    "dna": "#龍帳⚡️2026-08-31-1401-3301-56人格-003-UID9622",
+    "hash": "8FFF2B33",
+    "audit_time": "2026-08-31T22:19:32.980072+08:00",
+    "color": "RED",
+    "score": 55.9,
+    "scores_detail": {
+      "D1": 50,
+      "D2": 40,
+      "D3": 80,
+      "D4": 70,
+      "D5": 50,
+      "weighted": 55.9
+    },
+    "red_rules_triggered": [
+      "R05"
+    ],
+    "router": "SOVEREIGN_BLOCK_HANDLER",
+    "witness": "🐱宝宝（兜底）",
+    "auto_approved": false,
+    "uid": "UID9622"
+  }
+]
